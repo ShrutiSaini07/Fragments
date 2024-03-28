@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment in Android</string>
+    <string name="heading">Fragments</string>
+    <string name="fragment1_button">Display First Fragment</string>
+    <string name="fragment2_button">Display Second Fragment</string>
+    <string name="fragment1_text1">First Fragment</string>
+    <string name="fragment2_text1">Second Fragment</string>
+</resources>
